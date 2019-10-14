@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Picstory</string>
+    <string name="photoImageView">Image View</string>
+    <string name="menu_recent">Recent</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_about">About</string>
+    <string name="enter_search_keyword">Enter search keyword</string>
+    <string name="hint">Flowers</string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+    <string name="developed_by_nabhishek_kumar">Developed by:  \nAbhishek Kumar</string>
+</resources>
